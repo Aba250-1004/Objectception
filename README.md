@@ -16,8 +16,14 @@ Objects, objects, and objects, oh my!
 
 ## Getting Started
 
+**If deliverable **
+
 * Fork & Clone this repo
 * Create a file named `solar_system.js` inside this repo and do your work for this assignment inside that file
+
+**If lab**
+
+* feel free to just do it in a repl.it
 
 ---
 
